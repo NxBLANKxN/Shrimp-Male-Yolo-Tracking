@@ -1,0 +1,22 @@
+.venv
+__pycache__
+# 權重與模型檔案
+# **/*.pt
+# **/*.onnx
+# **/*.engine
+# **/*.tflite
+# **/*.pth
+# **/*.pb
+# **/*.weights
+
+# 影片檔案
+# **/*.mp4
+# **/*.avi
+# **/*.mov
+# **/*.mkv
+
+# 視覺化輸出 (如果你不想備份圖表和 JSON)
+*蝦*/
+
+# Ultralytics 產生的訓練日誌 (runs/)
+runs
