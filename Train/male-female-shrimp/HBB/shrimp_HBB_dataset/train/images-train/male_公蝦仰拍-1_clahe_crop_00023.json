@@ -1,0 +1,39 @@
+{
+  "version": "4.0.0-beta.3",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "male_line",
+      "score": null,
+      "points": [
+        [
+          211.02115812917594,
+          36.809576837416486
+        ],
+        [
+          241.97884187082406,
+          36.809576837416486
+        ],
+        [
+          241.97884187082406,
+          69.5489977728285
+        ],
+        [
+          211.02115812917594,
+          69.5489977728285
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "male_公蝦仰拍-1_clahe_crop_00023.jpg",
+  "imageData": null,
+  "imageHeight": 95,
+  "imageWidth": 353
+}

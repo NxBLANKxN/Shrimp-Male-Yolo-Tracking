@@ -1,0 +1,9 @@
+path: C:\Users\lab509\Shrimp-Project\Shrimp-Yolo\Train\male-female-shrimp\OBB\shrimp_OBB_dataset
+
+train: train/images
+val: val/images
+test: test/images
+
+nc: 1
+names:
+  0: shrimp

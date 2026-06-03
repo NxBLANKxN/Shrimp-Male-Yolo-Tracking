@@ -1,9 +1,9 @@
 # modules/config.py
 
-MODEL_OBB_PATH = "model/best-obb.pt"
+MODEL_OBB_PATH = "model/best0602-obb.pt"
 MODEL_HBB_PATH = "model/best-hbb.pt"
 
-IMGSZ_OBB = 1280
+IMGSZ_OBB = 960
 IMGSZ_HBB = 416
 HBB_CONF = 0.60
 

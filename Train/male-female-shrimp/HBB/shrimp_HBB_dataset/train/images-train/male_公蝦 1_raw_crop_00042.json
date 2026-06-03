@@ -1,0 +1,39 @@
+{
+  "version": "4.0.0-beta.3",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "male_line",
+      "score": null,
+      "points": [
+        [
+          103.38323353293414,
+          20.631736526946106
+        ],
+        [
+          123.62275449101797,
+          20.631736526946106
+        ],
+        [
+          123.62275449101797,
+          33.446107784431135
+        ],
+        [
+          103.38323353293414,
+          33.446107784431135
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "male_公蝦 1_raw_crop_00042.jpg",
+  "imageData": null,
+  "imageHeight": 53,
+  "imageWidth": 190
+}

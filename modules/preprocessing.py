@@ -19,4 +19,12 @@ def crop_oriented_box(frame, obb_box):
     matrix = cv2.getPerspectiveTransform(src, dst)
     inverse_matrix = cv2.getPerspectiveTransform(dst, src)
     crop = cv2.warpPerspective(frame, matrix, (max(1, int(w)), max(1, int(h))))
+    if crop.shape[0] > crop.shape[1]:
+        old_h = crop.shape[0]
+        crop = cv2.rotate(crop, cv2.ROTATE_90_CLOCKWISE)
+        final_to_initial = np.array(
+            [[0, 1, 0], [-1, 0, old_h - 1], [0, 0, 1]],
+            dtype="float32",
+        )
+        inverse_matrix = inverse_matrix @ final_to_initial
     return crop, vertices, inverse_matrix

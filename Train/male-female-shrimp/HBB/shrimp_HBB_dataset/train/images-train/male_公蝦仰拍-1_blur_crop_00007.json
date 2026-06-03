@@ -1,0 +1,39 @@
+{
+  "version": "4.0.0-beta.3",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "male_line",
+      "score": null,
+      "points": [
+        [
+          218.36792452830187,
+          40.74528301886792
+        ],
+        [
+          246.66981132075472,
+          40.74528301886792
+        ],
+        [
+          246.66981132075472,
+          67.63207547169812
+        ],
+        [
+          218.36792452830187,
+          67.63207547169812
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "male_公蝦仰拍-1_blur_crop_00007.jpg",
+  "imageData": null,
+  "imageHeight": 98,
+  "imageWidth": 374
+}

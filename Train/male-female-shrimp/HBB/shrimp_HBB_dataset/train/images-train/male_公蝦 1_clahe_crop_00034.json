@@ -1,0 +1,39 @@
+{
+  "version": "4.0.0-beta.3",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "male_line",
+      "score": null,
+      "points": [
+        [
+          101.81990521327015,
+          20.457345971563985
+        ],
+        [
+          122.43601895734596,
+          20.457345971563985
+        ],
+        [
+          122.43601895734596,
+          35.26777251184835
+        ],
+        [
+          101.81990521327015,
+          35.26777251184835
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "male_公蝦 1_clahe_crop_00034.jpg",
+  "imageData": null,
+  "imageHeight": 53,
+  "imageWidth": 188
+}
